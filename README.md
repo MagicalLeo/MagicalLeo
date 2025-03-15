@@ -21,13 +21,13 @@
 const MagicalLeo = {
   focus: ["AI Applications", "Full Stack Development", "LLMs"],
   technologies: {
-    frontend: ["Vue.js", "ElectronJS", "HTML/CSS/JS"],
-    backend: ["Java", "Spring Boot", "SMTP/POP3 Protocols"],
-    ai: ["HuggingFace", "LLM Development", "Aivara-model-14B"],
-    data: ["Telemetry Analysis", "PMU Vector Monitoring"]
+    frontend: ["Vue.js", "ElectronJS", "NextJS", "HTML/CSS/JS"],
+    backend: ["Java Spring Boot", "Fastapi"],
+    ai: ["HuggingFace", "LLM Development"],
   },
   currentProjects: [
     "Aivara AI Customer Service",
+    "Medflow Process Manager",
     "Clock Synchronization & PMU Vector Monitoring"
   ],
   challenge: "Creating AI solutions that enhance productivity and improve people's lives"
@@ -65,43 +65,6 @@ const MagicalLeo = {
 <img src="https://github-profile-trophy.vercel.app/?username=MagicalLeo&theme=nord&column=7" alt="trophy" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<details open>
-  <summary><b>🤖 Aivara AI Customer Service (CodeBat.ai)</b></summary>
-  <br>
-  <p>
-    AI-powered customer service system leveraging large language models. The system automates responses and enhances support efficiency. I contributed by uploading the <b>Aivara-model-14B</b> to Hugging Face, making it publicly accessible.
-  </p>
-  <p>
-    <b>Technologies:</b> LLM, AI, Vue, Java, Spring Boot, HuggingFace
-  </p>
-</details>
-
-<details>
-  <summary><b>📊 Clock Synchronization & PMU Vector Monitoring System</b></summary>
-  <br>
-  <p>
-    Telemetry analysis platform using ElectronJS to monitor clock synchronization bias and PMU vector data for precise measurement in physical experiments.
-  </p>
-  <p>
-    <b>Technologies:</b> ElectronJS, Telemetry, Data Analysis, PMU
-  </p>
-</details>
-
-<details>
-  <summary><b>📧 Email System Based on SMTP and POP3</b></summary>
-  <br>
-  <p>
-    Full-stack email platform supporting SMTP and POP3 protocols. The project includes both server-side architecture and a mobile client for seamless email management.
-  </p>
-  <p>
-    <b>Technologies:</b> SMTP, POP3, Full Stack, Mobile
-  </p>
-</details>
 
 ---
 
