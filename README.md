@@ -1,13 +1,10 @@
 ##
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+MagicalLeo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=24&pause=1000&color=F74E4E&background=0006FF00&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+MagicalLeo+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ![MagicalLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicalLeo)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicalLeo)
 
-![MagicalLeo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MagicalLeo)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=MagicalLeo)
 
 
 
