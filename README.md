@@ -1,5 +1,6 @@
 ##
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=24&pause=1000&color=F74E4E&background=0006FF00&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+MagicalLeo+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=24&pause=1000&color=F74E4E&background=0006FF00&center=true&vCenter=true&width=435&lines=%F0%9F%94%A5+Turning+Ideas+into+Code+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 
