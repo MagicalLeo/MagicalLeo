@@ -4,7 +4,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+AI+Enthusiast;Turning+Ideas+into+Elegant+Code;Building+the+Future+with+AI)](https://git.io/typing-svg)
 
-  <img src="https://github.com/user-attachments/assets/0f3a900b-db78-4dae-810b-b673c7f0f799" width="450" height="auto" alt="Profile Banner"/>
+  ![Profile Banner](https://github.com/user-attachments/assets/0f3a900b-db78-4dae-810b-b673c7f0f799)
   
   <p align="center">
     <a href="mailto:leo92816leo92816@gmail.com"><img src="https://img.shields.io/badge/Email-leo92816leo92816%40gmail.com-64FFDA?style=flat-square&logo=gmail"></a>
